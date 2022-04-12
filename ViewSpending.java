@@ -485,6 +485,7 @@ private void displayCategory(){
        }
         catch(Exception ex){
            JOptionPane.showMessageDialog(null, ex);
+           //Hello
        }
     }//GEN-LAST:event_bar1ActionPerformed
 
